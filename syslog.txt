@@ -1,0 +1,49 @@
+
+##########################################################################
+# 			       TL-WR886N  System Log 
+# Time = 2015-12-25 23:23:37 42216s
+# H-Ver = 5.0 : S-Ver = 2.0.14 Build 151225 Rel.42007n
+# L = 192.168.1.1 : M = 255.255.255.0
+# WAN = DHCP : W = 0.0.0.0 : M = 0.0.0.0 : G = 0.0.0.0
+# Cnt = 8704, Free = 8477, Busy = 227
+##########################################################################
+  0days, 00:00:05, LAN: Attach mirror0 to stack.
+  0days, 00:00:05, WAN: Attach interface eth1.
+  0days, 00:00:05, WAN: Wan ethernet port plug on.
+  0days, 00:00:05, LAN: Set interface mirror0 ip=192.168.1.1 netmask 255.255.255.0.
+  0days, 00:00:05, HTTPD: Http server start!
+  0days, 00:00:08, DHCPC1: Send DISCOVER with unicast flag 0.
+  0days, 00:00:10, DHCPC1: Send DISCOVER with unicast flag 0.
+  0days, 00:00:12, DHCPC1: Send DISCOVER with unicast flag 0.
+  0days, 00:00:13, DHCPS: IP(192.168.0.100) not in dhcp pool or equal to server ip, ignore!!!
+  0days, 00:00:13, DHCPS: REQUEST ip 192.168.0.100 is not in the address pool
+  0days, 00:00:15, DHCPS: Send OFFER with ip 192.168.1.100.
+  0days, 00:00:16, DHCPC1: Send DISCOVER with unicast flag 1.
+  0days, 00:00:18, DHCPC1: Send DISCOVER with unicast flag 1.
+  0days, 00:00:30, DHCPC1: Send DISCOVER with unicast flag 1.
+  0days, 00:00:32, DHCPC1: Send DISCOVER with unicast flag 1.
+  0days, 00:00:34, DHCPC1: Send DISCOVER with unicast flag 1.
+  0days, 00:00:38, DHCPC1: Send DISCOVER with unicast flag 0.
+  0days, 00:00:40, DHCPC1: Send DISCOVER with unicast flag 0.
+  0days, 00:01:22, DHCPC1: Send DISCOVER with unicast flag 0.
+  0days, 00:01:24, DHCPC1: Send DISCOVER with unicast flag 0.
+  0days, 00:01:26, DHCPC1: Send DISCOVER with unicast flag 0.
+  0days, 00:01:30, DHCPC1: Send DISCOVER with unicast flag 1.
+  0days, 00:01:32, DHCPC1: Send DISCOVER with unicast flag 1.
+  0days, 00:02:44, DHCPC1: Send DISCOVER with unicast flag 1.
+  0days, 00:02:46, DHCPC1: Send DISCOVER with unicast flag 1.
+  0days, 00:02:48, DHCPC1: Send DISCOVER with unicast flag 1.
+  0days, 00:02:52, DHCPC1: Send DISCOVER with unicast flag 0.
+  0days, 00:02:54, DHCPC1: Send DISCOVER with unicast flag 0.
+  0days, 00:02:56, DHCPC1: Recv no OFFER, DHCP Service unavailable.
+  0days, 10:21:49, DHCPS: Send OFFER with ip 192.168.1.101.
+  0days, 10:23:02, PPPOE: TX PADI.
+  0days, 10:23:02, PPPOE: AUTO DETECT RX PADO.
+  0days, 10:23:04, PPPOE: TX PADI.
+  0days, 10:23:04, PPPOE: AUTO DETECT RX PADO.
+  0days, 10:23:06, PPPOE: TX PADI.
+  0days, 10:23:06, PPPOE: AUTO DETECT RX PADO.
+  0days, 10:27:30, DHCPS: IP(192.168.100.5) not in dhcp pool or equal to server ip, ignore!!!
+  0days, 10:27:30, DHCPS: REQUEST ip 192.168.100.5 is not in the address pool
+  0days, 10:27:42, DHCPS: Send OFFER with ip 192.168.1.102.
+
